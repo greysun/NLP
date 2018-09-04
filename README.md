@@ -16,3 +16,4 @@ CoNaLa: The Code/Natural Language Challenge https://conala-corpus.github.io/
 
 Statistical NLG for spoken dialogue systems https://github.com/UFAL-DSG/tgen
 
+ava API for Natural Language Generation. Originally developed by Ehud Reiter at the University of Aberdeen’s Department of Computing Science and co-founder of Arria NLG. This git repo is the official SimpleNLG version. https://github.com/simplenlg/simplenlg
