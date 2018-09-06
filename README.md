@@ -34,6 +34,8 @@ Text Summarization Techniques: A Brief Survey https://arxiv.org/abs/1707.02268
 
 A Survey on Neural Network-Based Summarization Methods https://arxiv.org/abs/1804.04589  
 
+Official version of TextTeaser. https://github.com/IndigoResearch/textteaser
+
 
 
 
