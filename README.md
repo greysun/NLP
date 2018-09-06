@@ -28,6 +28,8 @@ Automatic Keyword Extraction for Text Summarization: A Survey  https://arxiv.org
 
 NLP for Microblog  Summarization https://www.aminer.cn/conf/airs2016
 
+Text Summarization Techniques: A Brief Survey https://arxiv.org/abs/1707.02268 
+
 
 
 
