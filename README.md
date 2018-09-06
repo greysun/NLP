@@ -45,6 +45,9 @@ DeepDive is a system to extract value from dark data. Like dark matter, dark dat
 
 Well tested & Multi-language evaluation framework for text summarization. https://github.com/chakki-works/sumeval
 
+The software used to extract structured data from Wikipedia https://github.com/dbpedia/extraction-framework
+
+
 
 
 
