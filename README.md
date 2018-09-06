@@ -38,6 +38,12 @@ Official version of TextTeaser. https://github.com/IndigoResearch/textteaser
 
 A Survey on Automatic Text Summarization http://www.cs.cmu.edu/~nasmith/LS2/das-martins.07.pdf
 
+中文近义词工具包 https://github.com/huyingxi/Synonyms
+
+DeepDive is a system to extract value from dark data. Like dark matter, dark data is the great mass of data buried in text, tables, figures, and images, which lacks structure and so is essentially unprocessable by existing software. http://deepdive.stanford.edu/index.html https://github.com/HazyResearch/deepdive  https://hazyresearch.github.io/snorkel/
+
+
+Well tested & Multi-language evaluation framework for text summarization. https://github.com/chakki-works/sumeval
 
 
 
