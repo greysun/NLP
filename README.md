@@ -21,3 +21,13 @@ ava API for Natural Language Generation. Originally developed by Ehud Reiter at 
 #summarization
 Tutorial on Abstractive Text
 Summarization https://nlgsummer.github.io/slides/Advaith_Siddharthan-Introduction_to_Summarisation.pdf 
+
+Automatic Web Article Summarizer https://github.com/jjangsangy/ExplainToMe
+
+Automatic Keyword Extraction for Text Summarization: A Survey  https://arxiv.org/abs/1704.03242 
+
+NLP for Microblog  Summarization https://www.aminer.cn/conf/airs2016
+
+
+
+
