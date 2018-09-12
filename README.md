@@ -54,6 +54,9 @@ A Lightweight Chinese Natural Language Processing Toolkit，提供中文分词, 
 
 Python library for processing Chinese text https://github.com/isnowfy/snownlp
 
+Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. https://textblob.readthedocs.io/  https://github.com/sloria/TextBlob
+
+
 
 
 
