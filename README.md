@@ -73,6 +73,8 @@ Python Module to get Meanings, Synonyms and what not for a given word https://vo
  13-车万翔-句法语义分析及其应用  
  15-万小军-文本自动摘要技术
  
+ NLPCC2017示例代码以及数据描述  https://github.com/FudanNLP/nlpcc2017_news_headline_categorization
+ 
  
  
  
