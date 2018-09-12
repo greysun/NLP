@@ -47,6 +47,15 @@ Well tested & Multi-language evaluation framework for text summarization. https:
 
 The software used to extract structured data from Wikipedia https://github.com/dbpedia/extraction-framework
 
+A Lightweight Chinese Natural Language Processing Toolkit，提供中文分词, 中文词性标注, 文本纠错，文本转拼音，情感分析...
+ https://github.com/SeanLee97/xmnlp 
+
+结巴中文分词  https://github.com/fxsjy/jieba
+
+Python library for processing Chinese text https://github.com/isnowfy/snownlp
+
+
+
 
 
 
