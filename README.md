@@ -61,6 +61,16 @@ Simple Solution for Multi-Criteria Chinese Word Segmentation http://www.hankcs.c
  
  A Chinese Nature Language Toolkit https://github.com/rockyzhengwu/FoolNLTK
  
+同义词表，反义词表，否定词表  https://github.com/guotong1988/chinese_dictionary
+
+Implementation of Word Embedding-based Antonym Detection using Thesauri and Distributional Information in NAACL2015 https://github.com/tticoin/AntonymDetection
+
+Python Module to get Meanings, Synonyms and what not for a given word https://vocabulary.readthedocs.io/en/…
+ https://github.com/tasdikrahman/vocabulary#wordnet-comparison 
+ 
+ Unsupervised Morphology Induction Using Word Embeddings  http://aclweb.org/anthology/N/N15/N15-1186.pdf
+ 
+ 
  
  
 
