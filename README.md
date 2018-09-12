@@ -56,6 +56,13 @@ Python library for processing Chinese text https://github.com/isnowfy/snownlp
 
 Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. https://textblob.readthedocs.io/  https://github.com/sloria/TextBlob
 
+Simple Solution for Multi-Criteria Chinese Word Segmentation http://www.hankcs.com/nlp/segment/mul…
+ https://github.com/hankcs/multi-criteria-cws  https://arxiv.org/abs/1712.02856
+ 
+ A Chinese Nature Language Toolkit https://github.com/rockyzhengwu/FoolNLTK
+ 
+ 
+ 
 
 
 
