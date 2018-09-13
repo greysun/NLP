@@ -75,6 +75,19 @@ Python Module to get Meanings, Synonyms and what not for a given word https://vo
  
  NLPCC2017示例代码以及数据描述  https://github.com/FudanNLP/nlpcc2017_news_headline_categorization
  
+ Text Summarization http://summarization.com/ 
+ 
+ NLP中自动生产文摘（auto text summarization） https://weibo.com/ttarticle/p/show?id=2309404162011079564441 
+ 
+ 收集2017年文本摘要相关的paper。 http://www.paperweekly.site/collections/347/papers
+ 
+ LCSTS: A Large Scale Chinese Short Text Summarization Dataset  http://cn.arxiv.org/pdf/1506.05865
+ 
+ Deep Learning and applications in Startups, CV, Text Mining, NLP  https://github.com/lipiji/app-dl
+ 
+ 
+
+
  
  
  
