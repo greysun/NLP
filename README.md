@@ -86,6 +86,17 @@ Python Module to get Meanings, Synonyms and what not for a given word https://vo
  Deep Learning and applications in Startups, CV, Text Mining, NLP  https://github.com/lipiji/app-dl
  
  
+ Code for training a Neural Open IE model (NAACL2018)  https://github.com/gabrielStanovsky/supervised-oie
+ 
+ Topic model reading list  http://bigml.cs.tsinghua.edu.cn/~jianfei/lda-reading.html
+ 
+ lecture notes for probabilistic topic models using ipython notebook
+ https://github.com/dongwookim-ml/topic-model-lecture-note
+ 
+ Topic Modeling Bibliography  http://qpleple.com/bib/
+ 
+ 
+ 
 
 
  
