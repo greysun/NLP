@@ -5,6 +5,7 @@ Tracking Progress in Natural Language Processing
 
 https://github.com/sebastianruder/NLP-progress
 
+Notes on deep learning for NLP  https://github.com/Tixierae/deep_learning_NLP
 
 benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains. https://github.com/shawnwun/RNNLG
 
