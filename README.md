@@ -1,9 +1,9 @@
 # NLP
 natural language processing
 
-Tracking Progress in Natural Language Processing
+https://github.com/howie6879/mlhub123 机器学习&深度学习网站资源汇总（Machine Learning Resources） https://www.mlhub123.com/  
 
-https://github.com/sebastianruder/NLP-progress
+Tracking Progress in Natural Language Processing   https://github.com/sebastianruder/NLP-progress
 
 Notes on deep learning for NLP  https://github.com/Tixierae/deep_learning_NLP
 
