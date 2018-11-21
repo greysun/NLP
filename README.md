@@ -1,6 +1,8 @@
 # NLP
 natural language processing
 
+https://github.com/NTMC-Community/awaresome-neural-models-for-semantic-match  A curated list of papers dedicated to neural text (semantic) matching.
+
 
 https://github.com/Kyubyong/nlp_tasks  Natural Language Processing Tasks and References
 
