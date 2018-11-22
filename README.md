@@ -1,6 +1,8 @@
 # NLP
 natural language processing
 
+Organized Resources for Deep Learning in Natural Language Processing   https://github.com/astorfi/Deep-Learning-NLP
+
 https://github.com/NTMC-Community/awaresome-neural-models-for-semantic-match  A curated list of papers dedicated to neural text (semantic) matching.  https://github.com/NTMC-Community/MatchZoo  MatchZoo is a toolkit for text matching. It was developed to facilitate the designing, comparing, and sharing of deep text matching models.
 
 
