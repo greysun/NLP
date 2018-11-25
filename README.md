@@ -1,6 +1,8 @@
 # NLP
 natural language processing
 
+https://github.com/jikexueyuanwiki/tensorflow-zh/blob/master/SOURCE/tutorials/word2vec.md  在本教程我们来看一下Mikolov et al中提到的word2vec模型。
+
 The Natural Language Decathlon: A Multitask Challenge for NLP  https://github.com/salesforce/decaNLP
 Organized Resources for Deep Learning in Natural Language Processing   https://github.com/astorfi/Deep-Learning-NLP
 
