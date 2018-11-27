@@ -134,6 +134,8 @@ http://nadbordrozd.github.io/blog/2017/08/12/looking-for-the-text-top-model/ Loo
 
 Paper
 
+https://github.com/ying-wen/nn_text_representation  Neural networks for text representation
+
 https://github.com/dennybritz/deeplearning-papernotes Summaries and notes on Deep Learning research papers
 
 http://www.aclweb.org/anthology/D14-1181
